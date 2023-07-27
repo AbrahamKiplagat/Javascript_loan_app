@@ -1,4 +1,3 @@
-Sure, here's a README.md file for the Emore Systems Mortgage Loan Calculator:
 
 # Emore Systems Mortgage Loan Calculator
 
